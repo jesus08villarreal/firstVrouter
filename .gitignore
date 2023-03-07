@@ -14,7 +14,10 @@ dist-ssr
 coverage
 *.local
 /public
-/src
+/src/assets
+/src/components
+/src/router
+/src/views
 /.vscode
 index.html
 package-lock.json
